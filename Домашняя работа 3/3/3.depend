@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1444244295 source:c:\users\Сергей\desktop\++\Универ\Программирование\1 курс\1 семестр\Домашняя работа 3\3\comparator.cpp
+	"comparator.h"
+	<iostream>
+
+1444244307 c:\users\Сергей\desktop\++\Универ\Программирование\1 курс\1 семестр\Домашняя работа 3\3\comparator.h
+
+1444244582 source:c:\users\Сергей\desktop\++\Универ\Программирование\1 курс\1 семестр\Домашняя работа 3\3\haveprefixtosum.cpp
+	<iostream>
+	"havePrefixToSum.h"
+	"StackForDigits.h"
+	"comparator.h"
+
+1444241984 c:\users\Сергей\desktop\++\Универ\Программирование\1 курс\1 семестр\Домашняя работа 3\3\haveprefixtosum.h
+
+1444241307 c:\users\Сергей\desktop\++\Универ\Программирование\1 курс\1 семестр\Домашняя работа 3\3\stackfordigits.h
+
+1444250503 source:c:\users\Сергей\desktop\++\Универ\Программирование\1 курс\1 семестр\Домашняя работа 3\3\main.cpp
+	<iostream>
+	"PostfixToSum.h"
+
+1444245180 source:c:\users\Сергей\desktop\++\Универ\Программирование\1 курс\1 семестр\Домашняя работа 3\3\stackfordigits.cpp
+	<iostream>
+	"stackForDigits.h"
+
+1444250492 c:\users\Сергей\desktop\++\Универ\Программирование\1 курс\1 семестр\Домашняя работа 3\3\postfixtosum.h
+
+1444250883 source:c:\users\Сергей\desktop\++\Универ\Программирование\1 курс\1 семестр\Домашняя работа 3\3\postfixtosum.cpp
+	<iostream>
+	"postfixToSum.h"
+	"stackForDigits.h"
+	"comparator.h"
+

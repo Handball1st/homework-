@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1449341190 source:c:\users\Сергей\desktop\++\Универ\Программирование\1 курс\1 семестр\Домашняя работа 6\2 v.1\tree.cpp
+	<iostream>
+	<cstring>
+	"tree.h"
+
+1449341847 c:\users\Сергей\desktop\++\Универ\Программирование\1 курс\1 семестр\Домашняя работа 6\2 v.1\tree.h
+
+1449341243 source:c:\users\Сергей\desktop\++\Универ\Программирование\1 курс\1 семестр\Домашняя работа 6\2 v.1\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"tree.h"
+

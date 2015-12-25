@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1443605599 source:c:\users\Сергей\desktop\++\Универ\Программирование\1 курс\1 семестр\Домашняя работа 3\4\comparator.cpp
+	"comparator.h"
+	<iostream>
+
+1443605599 c:\users\Сергей\desktop\++\Универ\Программирование\1 курс\1 семестр\Домашняя работа 3\4\comparator.h
+
+1445233915 source:c:\users\Сергей\desktop\++\Универ\Программирование\1 курс\1 семестр\Домашняя работа 3\4\postfixtosum.cpp
+	<iostream>
+	"postfixToSum.h"
+	"stackForDigits.h"
+	"comparator.h"
+
+1444246614 c:\users\Сергей\desktop\++\Универ\Программирование\1 курс\1 семестр\Домашняя работа 3\4\postfixtosum.h
+
+1445234107 c:\users\Сергей\desktop\++\Универ\Программирование\1 курс\1 семестр\Домашняя работа 3\4\stackfordigits.h
+
+1445234142 source:c:\users\Сергей\desktop\++\Универ\Программирование\1 курс\1 семестр\Домашняя работа 3\4\stackfordigits.cpp
+	<iostream>
+	"stackForDigits.h"
+
+1445234152 source:c:\users\Сергей\desktop\++\Универ\Программирование\1 курс\1 семестр\Домашняя работа 3\4\stackforoperations.cpp
+	<iostream>
+	"stackForOperations.h"
+
+1445234107 c:\users\Сергей\desktop\++\Универ\Программирование\1 курс\1 семестр\Домашняя работа 3\4\stackforoperations.h
+
+1445234340 source:c:\users\Сергей\desktop\++\Универ\Программирование\1 курс\1 семестр\Домашняя работа 3\4\infixtopostfix.cpp
+	"infixToPostfix.h"
+	"comparator.h"
+	"stackForOperations.h"
+	"postfixToSum.h"
+	<iostream>
+
+1444249108 c:\users\Сергей\desktop\++\Универ\Программирование\1 курс\1 семестр\Домашняя работа 3\4\infixtopostfix.h
+
+1444251315 source:c:\users\Сергей\desktop\++\Универ\Программирование\1 курс\1 семестр\Домашняя работа 3\4\main.cpp
+	<iostream>
+	"infixToPostfix.h"
+

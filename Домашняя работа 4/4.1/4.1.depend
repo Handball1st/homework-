@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1450626299 source:c:\users\Сергей\desktop\++\Универ\Программирование\1 курс\1 семестр\Домашняя работа 4\4.1\main.cpp
+	<iostream>
+	"sortedList.h"
+
+1450357280 c:\users\Сергей\desktop\++\Универ\Программирование\1 курс\1 семестр\Домашняя работа 4\4.1\sortedlist.h
+
+1450357314 source:c:\users\Сергей\desktop\++\Универ\Программирование\1 курс\1 семестр\Домашняя работа 4\4.1\sortedlist.cpp
+	<iostream>
+	"sortedList.h"
+

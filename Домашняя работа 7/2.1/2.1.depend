@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1449411457 source:c:\users\Сергей\desktop\++\Универ\Программирование\1 курс\1 семестр\Домашняя работа 7\2.1\string.cpp
+	"string.h"
+	<cstdio>
+	<iostream>
+
+1449410427 c:\users\Сергей\desktop\++\Универ\Программирование\1 курс\1 семестр\Домашняя работа 7\2.1\string.h
+
+1449411546 source:c:\users\Сергей\desktop\++\Универ\Программирование\1 курс\1 семестр\Домашняя работа 7\2.1\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+	"string.h"
+

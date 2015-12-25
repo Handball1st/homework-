@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1449228723 source:c:\users\Сергей\desktop\++\Универ\Программирование\1 курс\1 семестр\КР2 Переписывание\3\sortedlist.cpp
+	<iostream>
+	<cstring>
+	"sortedList.h"
+
+1449231369 c:\users\Сергей\desktop\++\Универ\Программирование\1 курс\1 семестр\КР2 Переписывание\3\sortedlist.h
+
+1449231472 source:c:\users\Сергей\desktop\++\Универ\Программирование\1 курс\1 семестр\КР2 Переписывание\3\main.cpp
+	<iostream>
+	<cstring>
+	<fstream>
+

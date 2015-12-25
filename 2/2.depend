@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1444391836 source:c:\users\Сергей\desktop\++\Универ\Программирование\1 курс\1 семестр\2\stack.cpp
+	<iostream>
+	"stack.h"
+
+1444391848 c:\users\Сергей\desktop\++\Универ\Программирование\1 курс\1 семестр\2\stack.h
+
+1444392865 source:c:\users\Сергей\desktop\++\Универ\Программирование\1 курс\1 семестр\2\main.cpp
+	<iostream>
+	"stack.h"
+

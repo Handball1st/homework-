@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1445232627 source:c:\users\Сергей\desktop\++\Универ\Программирование\1 курс\1 семестр\Домашняя работа 3\2\main.cpp
+	<iostream>
+	"infixToPostfix.h"
+
+1445232789 c:\users\Сергей\desktop\++\Универ\Программирование\1 курс\1 семестр\Домашняя работа 3\2\infixtopostfix.h
+
+1445232852 source:c:\users\Сергей\desktop\++\Универ\Программирование\1 курс\1 семестр\Домашняя работа 3\2\infixtopostfix.cpp
+	"infixToPostfix.h"
+	"comparator.h"
+	"stackForOperations.h"
+	<iostream>
+
+1443605599 source:c:\users\Сергей\desktop\++\Универ\Программирование\1 курс\1 семестр\Домашняя работа 3\2\comparator.cpp
+	"comparator.h"
+	<iostream>
+
+1443605599 c:\users\Сергей\desktop\++\Универ\Программирование\1 курс\1 семестр\Домашняя работа 3\2\comparator.h
+
+1444059901 c:\users\Сергей\desktop\++\Универ\Программирование\1 курс\1 семестр\Домашняя работа 3\2\stack.h
+
+1444066709 source:c:\users\Сергей\desktop\++\Универ\Программирование\1 курс\1 семестр\Домашняя работа 3\2\stack.cpp
+	<iostream>
+	"stackForOperations.h"
+
+1445232986 c:\users\Сергей\desktop\++\Универ\Программирование\1 курс\1 семестр\Домашняя работа 3\2\stackforoperations.h
+
+1445232986 source:c:\users\Сергей\desktop\++\Универ\Программирование\1 курс\1 семестр\Домашняя работа 3\2\stackforoperations.cpp
+	<iostream>
+	"stackForOperations.h"
+
